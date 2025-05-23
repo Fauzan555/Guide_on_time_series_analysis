@@ -9,8 +9,11 @@ Initial data loading and exploration using a classic dataset: the AirPassengers 
 
 # 🛠️ Tools & Technologies
 Python 3
+
 Pandas for data manipulation.
+
 Matplotlib and Seaborn for visualization.
+
 Jupyter Notebook for interactive development.
 
 # Contents
